@@ -1,0 +1,70 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#header{
+    background-color: #3B5998;
+    height: 60px;
+    
+}
+#logo{
+    position: relative;
+    top: 8px;
+    left: 10px;
+    color: white;
+    font-family: arial,sans-serif;
+       font-weight: 600;
+       font-size: 36px;
+       color: white;
+}
+#login{
+    position: absolute;
+    right: 150px;
+    top: 30px;
+}
+#l1,#l2{
+    position: absolute;
+    top: -18px;
+    color: white;
+    
+    
+}
+.signup{
+    position: absolute;
+    right: 80px;
+    top: 70px;
+    background-color: #3B5998;
+    
+}
+#acc{
+    font-family: arial,sans-serif;
+       font-weight: 600;
+       font-size: 36px;
+       color: black;
+       position: relative;
+       right: 150px;
+
+}
+#para{
+     position: relative;
+     right: 150px;
+}
+.flname{
+    position: relative;
+    right: 150px;
+    top: 15px;
+    height: 20px;
+}
+.phone{
+    position: relative;
+    right: 150px;
+    top: 25px;
+    height: 20px;
+    width: 323px;
+}
+
+
+
+i gave all the elements in id signup absolute position

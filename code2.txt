@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./facebook.css">
+</head>
+<body>
+   
+        <div id="header">
+            <h3 id="logo">facebook</h3>
+            <div id="login">
+            <label for="" id="l1">Email ID</label>
+            <input type="text">
+            <label for="" id="l2">Password</label>
+            <input type="text">
+            <button type="submit">Log in</button>
+        </div>
+        <div class="signup">
+            <h3 id="acc">Create an account</h3>
+            <p id="para">its free and always will be</p>
+            <table>
+           <tr>
+            <td>
+
+             <input type="text" placeholder=" First name" class="fname"  size="">
+            
+            <input type="text" placeholder=" Last name" name="" class="lname">
+        </td>
+            <tr>
+                <td><input type="text" placeholder="phone number or email" class="phone"></td>
+            </tr>
+                <tr>
+                    <td>
+                        <input type="password" name="" id="" placeholder="New password" class="password">
+                    </td>
+                </tr>
+                <tr>
+                    <label for="" class="datename">Birthday</label>
+                    <input type="date" class="date" name="" id="">
+                </tr>
+            </table>
+        </div>
+        </div>
+        
+    
+    
+</body>
+</html>

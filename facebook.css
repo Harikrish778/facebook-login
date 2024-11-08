@@ -1,0 +1,270 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #dfe3ee;
+    
+}
+
+#header{
+    background-color: #3B5998;
+    height: 70px;
+    
+}
+#logo{
+    position: relative;
+    bottom: -15px;
+    left: 90px;
+    color: white;
+    font-family: arial,sans-serif;
+       font-weight: 630;
+       font-size: 40px;
+       color: white;
+}
+#login{
+    position: absolute;
+    left: 900px;
+    top: 30px;
+    
+   
+}
+#emaillabel{
+    font-style: arial,sans-serif;
+    position: relative;
+    top: -29px;
+    color: white;
+    font-size: smaller;
+    left: 127px;
+}
+    
+    
+    #passlabel{
+        font-style: arial,sans-serif;
+    position: relative;
+    top: -29px;
+    left: 55px;
+    color: white;
+    font-size: smaller;
+    
+    
+}
+.emailinput{
+    position: relative;
+    top: -10px;
+    right: -40px;
+}
+
+.passinput{
+    position: relative;
+    top: -10px;
+}
+ #forgotacc{
+
+    font-family: arial,sans-serif;
+    text-decoration: none;
+    font-size: smaller;
+    color: white;
+    opacity: 0.5;
+    position: relative;
+    top: 10px;
+    right: 205px;
+    
+
+ }
+
+.logbutton{
+    background-color: #4e679d;
+    position: relative;
+    color: white;
+    border: 1px solid white;
+    top: -10px;
+    right: -5px;
+    cursor: pointer;
+    /* height: 10px;  */
+    /* width: 50px; */
+    
+}
+.signup{
+    position: absolute;
+    right: 200px;
+    top: 70px;
+    height: 500px;
+    width: 1000px;
+    /* background: linear-gradient(to bottom,white) */
+   
+    
+    
+    
+}
+
+#createacc{
+    font-family: arial,sans-serif;
+       font-weight: 600;
+       font-size: 36px;
+       color: black;
+       position: absolute;
+       right: 250px;
+
+}
+#accpara{
+    font-family: arial,sans-serif;
+     position: absolute;
+     right: 430px;
+     top: 50px;
+}
+.fname{
+    position: absolute;
+    right: 377px;
+    top: 80px;
+    height: 25px;
+    width: 180px;
+    opacity: 0.5;
+    border: 2px rgba(0, 0, 0, 0.462);
+    border-style:inset;
+}
+.lname{
+    position: absolute;
+    top: 80px;
+    right: 180px;
+    height: 25px;
+    width: 180px;
+    opacity: 0.5;
+    border: 2px rgba(0, 0, 0, 0.462);
+    border-style:inset;
+}
+.phone{
+    position: absolute;
+    right: 178px;
+    top: 120px;
+    height: 25px;
+    width: 380px;
+    opacity: 0.5;
+    border: 2px rgba(0, 0, 0, 0.462);
+    border-style:inset;
+}
+.password{
+    position: absolute;
+    right: 178px;
+    top: 160px;
+    height: 25px;
+    width: 380px;
+    opacity: 0.5;
+    border: 2px rgba(0, 0, 0, 0.462);
+    border-style:inset;
+}
+.date{
+    position: absolute;
+    right: 220px;
+    top: 235px;
+    height:30px;
+    
+}
+.datename{
+    font-family: arial,sans-serif;
+    position: absolute;
+    right: 503px;
+    top: 210px;
+}
+
+#day{
+    position: absolute;
+    right: 503px;
+    height: 20px;
+    width: 57px;
+    top: 235px;
+
+
+}
+
+#month{
+    position: absolute;
+    right: 445px;
+    height: 20px;
+    width: 57px;
+    top: 235px;
+}
+
+
+#year{
+    position: absolute;
+    right: 386px;
+    height: 20px;
+    width: 57px;
+    top: 235px;
+}
+#questionmark2{
+    position: absolute;
+    right: 360px;
+    top: 235px;
+    height: 17px;
+}
+
+
+
+#gender{
+    font-family: arial,sans-serif;
+    position: absolute;
+    right: 508px;
+    top: 265px;
+    
+}
+#male{
+    position: absolute;
+    right: 500px;
+    top: 295px;
+    font-family: arial,sans-serif;
+    
+}
+#fem{
+    position: absolute;
+    right: 420px;
+    top: 295px;
+    font-family: arial,sans-serif;
+}
+#cus{
+    position: absolute;
+    right: 335px;
+    top: 295px;
+    font-family: arial,sans-serif;
+}
+#questionmark{
+    position: absolute;
+    right: 300px;
+    top: 295px;
+    height: 17px;
+}
+#policy{
+    position: absolute;
+    right: 200px;
+    top: 330px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+#sigin{
+    position: absolute;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(0, 128, 0);
+    color: white;
+    right: 410px;
+    top: 400px;
+    border-radius:8px ;
+    cursor: pointer;
+}
+#img{
+    /* background-color: aqua; */
+    height: 70vh;
+}
+#image{
+    position: absolute;
+    top: 150px;
+    left: 90px;
+}
+#imagepara{
+    position: absolute;
+    font-family:  arial,sans-serif;
+    top: 100px;
+    left: 90px;
+    
+}
